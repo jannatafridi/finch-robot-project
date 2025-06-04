@@ -81,6 +81,7 @@ Your program must include at least 5 of these Java/OOP concepts:
   -I could add LED Lights to make i even more visually appealing
 -Include sound notes to add emotion
   * Video or images of your robot in action (embedded or linked)
+  [![Finch Demo](assets/thumbnail.png)] (https://share.icloud.com/photos/0fdbw_Fyv_a99SSoxZzi6tdKw)
 
 ## Project Rubric (16 points total)
 
