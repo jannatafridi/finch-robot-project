@@ -67,9 +67,19 @@ Your program must include at least 5 of these Java/OOP concepts:
 - GitHub repository with organized file structure
 - README.md file including:
   * Project description and objectives
+  In this project, I'm uilizing a Finch Robot to create a fun design - a smiley face!
+
   * Description of design choices
+-**Circle Drawing**: The Finch draws a full circle using setMotors
+-**Eye Lines**: During a pause, program draws two lines
+-**Smile**: The robot completes the face by drawing  half circle
+-**Display Output**: The Finch prints IM HUNGRY while drawing
   * Challenges faced and solutions
+-**Circle Movement**: Initially, the robot would only move forward. The issue was solved using setMotors and a pause.
+-**Turning Issues**: the robot would not fully rotate which was fixed using setMotors.
   * Future enhancements
+  -I could add LED Lights to make i even more visually appealing
+-Include sound notes to add emotion
   * Video or images of your robot in action (embedded or linked)
 
 ## Project Rubric (16 points total)
@@ -116,18 +126,3 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
-## README UPDATE
-### Project Description and Objectives
-In this project, I'm uilizing a Finch Robot to create a fun design - a smiley face!
-### Description of Design Choices
--**Circle Drawing**: The Finch draws a full circle using setMotors
--**Eye Lines**: During a pause, program draws two lines
--**Smile**: The robot completes the face by drawing  half circle
--**Display Output**: The Finch prints IM HUNGRY while drawing
-### Challenges Faced and Solutions
--**Circle Movement**: Initially, the robot would only move forward. The issue was solved using setMotors and a pause.
--**Turning Issues**: the robot would not fully rotate which was fixed using setMotors.
-### Future Enhancements
--I could add LED Lights to make i even more visually appealing
--Include sound notes to add emotion
-### Video of my Finch
